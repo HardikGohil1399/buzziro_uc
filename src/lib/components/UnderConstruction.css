@@ -84,6 +84,8 @@ body,
 @media (max-width: 700px) {
   .UnderConstruction-description {
     font-size: 16px;
+    line-height: 30px;
+    margin: 16px 32px;
   }
 }
 
